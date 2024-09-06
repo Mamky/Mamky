@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mamky
 - 👀 I’m interested in Gaming and Manhwa
 - 🌱 I’m currently learning Web Design
-- 📫 How to reach me ...
 - 😄 Pronouns: He/HIM
 
 
