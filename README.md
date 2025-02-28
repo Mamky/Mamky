@@ -5,4 +5,4 @@
 
   My goal is to get an associates degree and become better at the things I do like HTML and CSS.
 
-  You can see all about me on my main page [here](mamky.github.io) 
+  You can see all about me on my main page [here](https://mamky.github.io/index)) 
